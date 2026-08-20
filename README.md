@@ -1,4 +1,4 @@
-# 🛳️ Titanic Project – Prodigy Infotech Task-02
+# 🛳️ Titanic Project 
 
 This project performs **data cleaning** and **exploratory data analysis (EDA)** on the famous [Titanic dataset](https://www.kaggle.com/c/titanic/data). It generates insights about passenger survival patterns and exports professional visualizations into a single PDF file.
 
